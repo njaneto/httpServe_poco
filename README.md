@@ -1,2 +1,2 @@
 # httpServe_poco
- implementação simples de um HTTPServer com poco library
+ implementação simples de HTTPServer com poco library
